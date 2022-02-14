@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-Ser.git"
+    "url": "git+https://github.com/phenias/Wizard-Ser.git"
   },
   "keywords": [
     "whatsapp-bot"
@@ -22,7 +22,7 @@
   "author": "Ajmal-Achu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
+    "url": "https://github.com/phenias/Wizard-Ser/issues"
   },
   "homepage": "https://github.com/Ajmal-Achu/Wizard-Ser",
   "dependencies": {
